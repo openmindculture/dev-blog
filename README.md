@@ -1,4 +1,4 @@
-# Ingo Steinke's dev-blog post archive
+# Ingo Steinke's dev blog post archive
 
 [Ingo Steinke](https://www.ingo-steinke.com/)'s blog post archive featuring markdown and PDF copies of web development articles published on DEV, Open Mind Culture, and other sites.
 
@@ -21,5 +21,7 @@ Ingo Steinke is a creative web developer, helping to build a fast and friendly, 
 [archive/](archive/)
 
 - [2021-2022/](archive/2021-2022/)
+
+- [2023/](archive/2023/)
 
 - [0-consistency-my-dev-blog-series-557d.md](archive/0-consistency-my-dev-blog-series-557d.md)
