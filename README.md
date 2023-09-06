@@ -1,6 +1,6 @@
 # Ingo Steinke's dev-blog post archive
 
-Ingo Steinke's blog post archive featuring markdown and PDF copies of web development articles published on DEV, Open Mind Culture, and other sites.
+[Ingo Steinke](https://www.ingo-steinke.com/)'s blog post archive featuring markdown and PDF copies of web development articles published on DEV, Open Mind Culture, and other sites.
 
 Ingo Steinke is a creative web developer, helping to build a fast and friendly, accessible, ethical and ecological word wide web.
 
