@@ -4,6 +4,8 @@ Ingo Steinke's blog post archive featuring markdown and PDF copies of web develo
 
 Ingo Steinke is a creative web developer, helping to build a fast and friendly, accessible, ethical and ecological word wide web.
 
+![screenshot of partial post content](consistency-cover.png)
+
 ## Blog Sources
 
 - https://dev.to/ingosteinke
