@@ -17,3 +17,5 @@ Ingo Steinke is a creative web developer, helping to build a fast and friendly, 
 ## Blog Archive
 
 [archive/](archive/)
+
+- [0-consistency-my-dev-blog-series-557d.md](https://github.com/openmindculture/dev-blog/blob/main/archive/0-consistency-my-dev-blog-series-557d.md)
